@@ -1,2 +1,25 @@
-# medical-practice-management-proposal-and-contract-template-pack
-Streamline your medical practice operations with this comprehensive Proposal and Contract Template Pack. Designed for healthcare professionals, clinic managers, and medical entrepreneurs, this pack includes ready-to-use templates for patient service agreements, vendor contracts, employment proposals, and partnership agreements. Each template is cra
+# Medical Practice Management Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq00j12DaQAbRSbzSd0b1s)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq00j12DaQAbRSbzSd0b1s)
+
